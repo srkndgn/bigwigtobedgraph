@@ -1,7 +1,10 @@
 Convert bigWig files to ASCII bedGraph format
 
-source > https://genome.ucsc.edu/goldenPath/help/bigWig.html   
-         https://anaconda.org/bioconda/ucsc-bigwigtobedgraph 
+source 
+
+> https://genome.ucsc.edu/goldenPath/help/bigWig.html   
+
+> https://anaconda.org/bioconda/ucsc-bigwigtobedgraph 
 
 Extracting data from the bigWig format
 
